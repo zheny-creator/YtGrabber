@@ -1,4 +1,4 @@
- YtGrabber
+ # YtGrabber
 
 **YtGrabber** is a simple graphical frontend for [yt-dlp](https://github.com/yt-dlp/yt-dlp) built with the **Kirigami** framework.  
 
